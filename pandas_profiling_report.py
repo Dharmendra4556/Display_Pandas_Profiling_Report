@@ -4,7 +4,7 @@ import pandas as pd
 import seaborn as sns
 import os
 import streamlit.components.v1 as components
-# welcome to main code.
+
 # Set up the page layout
 st.set_page_config(layout="wide")
 st.title("Upload CSV or Excel File and Display Pandas Profiling Report")
